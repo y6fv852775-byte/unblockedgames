@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=400&h=250&fit=crop",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "category": "Action",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=400&h=250&fit=crop",
+    "description": "Fly through the pipes and try not to crash."
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "category": "Classic",
+    "url": "https://macek.github.io/google_pacman/",
+    "thumbnail": "https://images.unsplash.com/photo-1579306194872-64d34cd304da?q=80&w=400&h=250&fit=crop",
+    "description": "The arcade classic brought to your browser."
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "category": "Puzzle",
+    "url": "https://chvin.github.io/react-tetris/",
+    "thumbnail": "https://images.unsplash.com/photo-1585338663420-562a90098df1?q=80&w=400&h=250&fit=crop",
+    "description": "Stack the blocks and clear the lines."
+  },
+  {
+    "id": "chrome-dino",
+    "title": "Chrome Dino",
+    "category": "Action",
+    "url": "https://chromedino.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1523875194681-bedd468c58bf?q=80&w=400&h=250&fit=crop",
+    "description": "The offline dinosaur game, now always available."
+  },
+  {
+    "id": "snake",
+    "title": "Snake Classic",
+    "category": "Classic",
+    "url": "https://google-snake.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=400&h=250&fit=crop",
+    "description": "The timeless game of growing and avoiding walls."
+  },
+  {
+    "id": "sudoku",
+    "title": "Sudoku",
+    "category": "Puzzle",
+    "url": "https://sudoku.com.au/EmbedSudoku.aspx",
+    "thumbnail": "https://images.unsplash.com/photo-1512428559083-a401c138afcc?q=80&w=400&h=250&fit=crop",
+    "description": "Exercise your brain with daily sudoku puzzles."
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "category": "Puzzle",
+    "url": "https://minesweeper.online/game/1",
+    "thumbnail": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=400&h=250&fit=crop",
+    "description": "Clear the grid without hitting any mines."
+  }
+]
+
