@@ -1,6 +1,6 @@
 {
   "name": "Nexus Games Hub",
   "description": "A clean, modern portal for curated unblocked games with categorized browsing and instant play.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
   "majorCapabilities": []
 }
